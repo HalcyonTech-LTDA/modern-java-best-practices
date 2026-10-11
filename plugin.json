@@ -1,5 +1,5 @@
 {
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "modern-java-best-practices",
-  "description": "Modern Java best practices, idioms, Object-Oriented & Data-Oriented Programming, stable Virtual Thread concurrency, Screaming Clean Architecture, deterministic testing, and high-performance Gradle build conventions (Modern Java Standard Baseline).",
-  "version": "1.3.0"
+  "description": "Modern Java best practices, idioms, Object-Oriented & Data-Oriented Programming, stable Virtual Thread concurrency, Screaming Clean Architecture, deterministic testing, and high-performance Gradle build conventions (Modern Java Standard Baseline)."
 }
