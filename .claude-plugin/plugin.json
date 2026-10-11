@@ -1,0 +1,14 @@
+{
+  "name": "modern-java-best-practices",
+  "description": "Modern Java best practices, idioms, Object-Oriented & Data-Oriented Programming, stable Virtual Thread concurrency, Screaming Clean Architecture, deterministic testing, and high-performance Gradle build conventions (Modern Java Standard Baseline).",
+  "author": {
+    "name": "Halcyon Tech",
+    "url": "https://github.com/HalcyonTech-LTDA"
+  },
+  "homepage": "https://github.com/HalcyonTech-LTDA/modern-java-best-practices",
+  "repository": "https://github.com/HalcyonTech-LTDA/modern-java-best-practices",
+  "license": "MIT",
+  "skills": [
+    "./claude/skills/"
+  ]
+}
