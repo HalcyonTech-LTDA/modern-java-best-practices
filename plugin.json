@@ -1,5 +1,20 @@
 {
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "modern-java-best-practices",
-  "description": "Modern Java best practices, idioms, Object-Oriented & Data-Oriented Programming, stable Virtual Thread concurrency, Screaming Clean Architecture, deterministic testing, and high-performance Gradle build conventions (Modern Java Standard Baseline)."
+  "description": "Modern Java best practices, idioms, Object-Oriented & Data-Oriented Programming, stable Virtual Thread concurrency, Screaming Clean Architecture, deterministic testing, and high-performance Gradle build conventions (Modern Java Standard Baseline).",
+  "displayName": "Modern Java Best Practices",
+  "version": "1.0.0",
+  "author": {
+    "name": "Halcyon Tech",
+    "url": "https://github.com/HalcyonTech-LTDA"
+  },
+  "homepage": "https://github.com/HalcyonTech-LTDA/modern-java-best-practices",
+  "repository": "https://github.com/HalcyonTech-LTDA/modern-java-best-practices",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Refactor this Java service to modern Java 21+ idioms and Data-Oriented Programming",
+    "Implement Screaming Clean Architecture with pure domain models and sealed hierarchies",
+    "Configure deterministic unit and integration tests using Testcontainers"
+  ]
 }
